@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.examen.appsolissol.app-mergeDebugResources-38:/layout/activity_registro.xml",
+        "source": "com.examen.appsolissol.app-main-41:/layout/activity_registro.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-mergeDebugResources-38:/layout/activity_home.xml",
+        "source": "com.examen.appsolissol.app-main-41:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-mergeDebugResources-38:/layout/fragment_api.xml",
+        "source": "com.examen.appsolissol.app-main-41:/layout/fragment_api.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-mergeDebugResources-38:/layout/fragment_local.xml",
+        "source": "com.examen.appsolissol.app-main-41:/layout/fragment_local.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-mergeDebugResources-38:/layout/item_mascota.xml",
+        "source": "com.examen.appsolissol.app-main-41:/layout/item_mascota.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-mergeDebugResources-38:/layout/item_product.xml",
+        "source": "com.examen.appsolissol.app-main-41:/layout/item_product.xml"
+    }
+]

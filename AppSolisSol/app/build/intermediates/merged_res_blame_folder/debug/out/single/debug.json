@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/layout_item_product.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/layout_activity_home.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/layout_fragment_local.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/layout/fragment_local.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/layout_activity_registro.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/layout/activity_registro.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/layout_fragment_api.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/layout/fragment_api.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/layout_item_mascota.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/layout/item_mascota.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/mipmap_ic_launcher.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.examen.appsolissol.app-merged_res-39:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.examen.appsolissol.app-main-41:/mipmap/ic_launcher_round.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSolisSol</string>
+    <string name="api">API</string>
+    <string name="mis_mascotas">Mis Mascotas</string>
+</resources>

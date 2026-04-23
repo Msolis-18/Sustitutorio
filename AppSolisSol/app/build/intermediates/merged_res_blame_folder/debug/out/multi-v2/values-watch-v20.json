@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.examen.appsolissol.app-mergeDebugResources-37:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Pc\\.gradle\\caches\\9.0-milestone-1\\transforms\\e6aec10913784bebf13990ac5350f6e9\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
